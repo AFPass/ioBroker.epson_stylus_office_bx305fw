@@ -1,38 +1,38 @@
 {
     "common": {
-        "name": "epson_stylus_px830",
-        "title": "Epson Stylus PX830",
+        "name": "epson_stylus_bx305",
+        "title": "Epson Stylus bx305",
         "titleLang": {
-            "en": "Epson Stylus PX830",
-            "de": "Epson Stylus PX830",
-            "ru": "Epson Stylus PX830",
-            "pt": "Epson Stylus PX830",
-            "nl": "Epson Stylus PX830",
-            "fr": "Epson Stylus PX830",
-            "it": "Epson Stylus PX830",
-            "es": "Epson Stylus PX830"
+            "en": "Epson Stylus bx305",
+            "de": "Epson Stylus bx305",
+            "ru": "Epson Stylus bx305",
+            "pt": "Epson Stylus bx305",
+            "nl": "Epson Stylus bx305",
+            "fr": "Epson Stylus bx305",
+            "it": "Epson Stylus bx305",
+            "es": "Epson Stylus bx305"
         },
         "desc": {
-            "en": "EPSON Stylus PX830 Ink Status",
-            "de": "EPSON Stylus PX830 Tintenstatus",
-            "ru": "EPSON Stylus PX830 Состояние чернил",
-            "pt": "Status da tinta EPSON Stylus PX830",
-            "nl": "EPSON Stylus PX830 inktstatus",
-            "fr": "État de l'encre EPSON Stylus PX830",
-            "it": "Stato inchiostro EPSON Stylus PX830",
-            "es": "Estado de la tinta EPSON Stylus PX830",
-            "pl": "EPSON Stylus PX830 Status atramentu"
+            "en": "EPSON Stylus bx305 Ink Status",
+            "de": "EPSON Stylus bx305 Tintenstatus",
+            "ru": "EPSON Stylus bx305 Состояние чернил",
+            "pt": "Status da tinta EPSON Stylus bx305",
+            "nl": "EPSON Stylus bx305 inktstatus",
+            "fr": "État de l'encre EPSON Stylus bx305",
+            "it": "Stato inchiostro EPSON Stylus bx305",
+            "es": "Estado de la tinta EPSON Stylus bx305",
+            "pl": "EPSON Stylus bx305 Status atramentu"
         },
         "docs": {
-            "en": "docs/en/doc_epson_stylus_px830_en.md",
-            "de": "docs/de/doc_epson_stylus_px830_de.md",
-            "ru": "docs/en/doc_epson_stylus_px830_en.md",
-            "pt": "docs/en/doc_epson_stylus_px830_en.md",
-            "nl": "docs/en/doc_epson_stylus_px830_en.md",
-            "fr": "docs/en/doc_epson_stylus_px830_en.md",
-            "it": "docs/en/doc_epson_stylus_px830_en.md",
-            "es": "docs/en/doc_epson_stylus_px830_en.md",
-            "pl": "docs/en/doc_epson_stylus_px830_en.md"
+            "en": "docs/en/doc_epson_stylus_bx305_en.md",
+            "de": "docs/de/doc_epson_stylus_bx305_de.md",
+            "ru": "docs/en/doc_epson_stylus_bx305_en.md",
+            "pt": "docs/en/doc_epson_stylus_bx305_en.md",
+            "nl": "docs/en/doc_epson_stylus_bx305_en.md",
+            "fr": "docs/en/doc_epson_stylus_bx305_en.md",
+            "it": "docs/en/doc_epson_stylus_bx305_en.md",
+            "es": "docs/en/doc_epson_stylus_bx305_en.md",
+            "pl": "docs/en/doc_epson_stylus_bx305_en.md"
         },
         "version": "0.2.1",
         "news": {
@@ -121,9 +121,9 @@
             "Pix"
         ],
         "license": "MIT",
-        "readme": "https://github.com/Pix---/ioBroker.epson_stylus_px830/blob/master/README.md",
-        "icon": "epson_stylus_px830.png",
-        "extIcon": "https://raw.githubusercontent.com/Pix---/ioBroker.epson_stylus_px830/master/admin/epson_stylus_px830.png",
+        "readme": "https://github.com/Pix---/ioBroker.epson_stylus_bx305/blob/master/README.md",
+        "icon": "epson_stylus_bx305.png",
+        "extIcon": "https://raw.githubusercontent.com/Pix---/ioBroker.epson_stylus_bx305/master/admin/epson_stylus_bx305.png",
         "allowInit": true,
         "type": "infrastructure",
         "config": {
