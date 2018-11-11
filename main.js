@@ -105,7 +105,7 @@ function readPrinter() {
         connect_cut2 = 'IP-Adresse beziehen',
         model_cut = '<title>',
         model_cut2 = '</title>',
-        mac_cut = 'MAC-Adresse&nbsp;:&nbsp;',
+        mac_cut = &#x4D;&#x41;&#x43;&#x2D;&#x41;&#x64;&#x72;&#x65;&#x73;&#x73;&#x65;&nbsp;:&nbsp;',
         mac_cut2 = '</textarea>',
         message_cut = "<div class='message' id='message_id' style='direction:ltr; unicode-bidi:bidi-override;'>",
         message_cut2 = "</div><form method";
