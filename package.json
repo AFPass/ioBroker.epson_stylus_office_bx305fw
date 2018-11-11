@@ -1,20 +1,20 @@
 {
-  "name": "iobroker.epson_stylus_px830",
-  "description": "Ink status of Epson Stylus PX830",
+  "name": "iobroker.epson_stylus_bx305",
+  "description": "Ink status of Epson Stylus bx305",
   "version": "0.2.1",
   "author": "pix",
   "contributors": [
     "pix"
   ],
-  "homepage": "https://github.com/Pix---/ioBroker.epson_stylus_px830",
+  "homepage": "https://github.com/Pix---/ioBroker.epson_stylus_bx305",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Pix---/ioBroker.epson_stylus_px830"
+    "url": "https://github.com/Pix---/ioBroker.epson_stylus_bx305"
   },
   "license": [
     {
       "type": "MIT",
-      "url": "https://github.com/Pix---/ioBroker.epson_stylus_px830/blob/master/LICENSE"
+      "url": "https://github.com/Pix---/ioBroker.epson_stylus_bx305/blob/master/LICENSE"
     }
   ],
   "keywords": [
@@ -38,7 +38,7 @@
     "chai": "^4.1.2"
   },
   "bugs": {
-    "url": "https://github.com/Pix---/ioBroker.epson_stylus_px830/issues"
+    "url": "https://github.com/Pix---/ioBroker.epson_stylus_bx305/issues"
   },
   "main": "main.js",
   "scripts": {
