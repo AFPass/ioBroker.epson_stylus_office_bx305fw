@@ -1,7 +1,7 @@
 {
   "name": "iobroker.epson_stylus_bx305",
   "description": "Ink status of Epson Stylus bx305",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "author": "pix",
   "contributors": [
     "pix"
