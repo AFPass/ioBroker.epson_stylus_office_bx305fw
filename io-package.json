@@ -34,8 +34,18 @@
             "es": "docs/en/doc_epson_stylus_bx305_en.md",
             "pl": "docs/en/doc_epson_stylus_bx305_en.md"
         },
-        "version": "0.2.1",
-        "news": {
+        "version": "0.2.2",
+        "news": {"0.2.2": {
+                "en": "Typo fixed",
+                "de": "Tippfehler behoben",
+                "ru": "Типовое фиксированное",
+                "pt": "Typo corrigido",
+                "nl": "Typo opgelost",
+                "fr": "Typo fixe",
+                "it": "Errore di battitura fisso",
+                "es": "Typo arreglado",
+                "pl": "Naprawiono literówkę"
+            },
             "0.2.1": {
                 "en": "Typo fixed",
                 "de": "Tippfehler behoben",
