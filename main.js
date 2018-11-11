@@ -13,7 +13,7 @@ var link = '';
 var sync = 180;
 
 var adapter = utils.Adapter({
-    name: 'epson_stylus_px830',
+    name: 'epson_stylus_bx305',
     systemConfig: true,
     useFormatDate: true,
     /*stateChange: function(id, state) {
@@ -208,13 +208,13 @@ function readPrinter() {
 
 function stopReadPrinter() {
     clearInterval(callReadPrinter);
-    adapter.log.info('Epson Stylus PX830 adapter stopped');
+    adapter.log.info('Epson Stylus bx305 adapter stopped');
 }
 
 function main() {
     //adapter.subscribeStates('*'); 
     readSettings();
-    adapter.log.debug('Epson Stylus PX830 adapter started...');
+    adapter.log.debug('Epson Stylus bx305 adapter started...');
     readPrinter();
     callReadPrinter = setInterval(function() {
         adapter.log.debug('connecting printer webserver ...');
